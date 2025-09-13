@@ -73,6 +73,8 @@ Desktop.ini
 # IDEs and editors
 .idea/
 .idea/*
+.venv/
+.venv/*
 
 *.sublime-workspace
 *.sublime-project
